@@ -1,0 +1,10 @@
+{"tag":"Napoje"}
+{"tag":"Ciała Stałe"}
+{"tag":"Mięso"}
+{"tag":"Węglowodany"}
+{"tag":"Białka"}
+{"tag":"Śmieciowe żarcie"}
+{"tag":"Cukierki"}
+{"tag":"Owoce"}
+{"tag":"Warzywa"}
+{"tag":"Przekąski"}

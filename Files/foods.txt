@@ -1,0 +1,3 @@
+{"id":0,"name":"Kawusia","tags":[null],"scientificName":"Ekstrakt z nasion kawy"}
+{"id":1,"name":"Chipsy","tags":[null],"scientificName":"ścinka ziemniaczana"}
+{"id":3,"name":"Płatki śniadaniowe","tags":["Ciała Stałe","Węglowodany","Przekąski"],"scientificName":"przemiał kukurydziany"}
